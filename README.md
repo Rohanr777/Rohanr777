@@ -1,10 +1,10 @@
-# Hi, I'm Rohan Rathod
+# Hi, I'm Rohan Rathod 👋
 
-Data Analytics & Business Intelligence student focused on building practical projects using SQL, Python, Excel, Power BI, and Tableau.
+🎓 Electronics & Communication Engineering student exploring Data Analytics, Business Intelligence, Automation, and AI-assisted workflows.
 
-I enjoy working with real-world datasets, creating dashboards, finding patterns in data, and turning raw information into useful insights.
+📊 I enjoy working with real-world datasets, building dashboards, cleaning data, and turning raw information into meaningful insights.
 
-## Tech Stack
+## 🚀 Tech Stack
 
 * Python
 * SQL
@@ -13,29 +13,21 @@ I enjoy working with real-world datasets, creating dashboards, finding patterns 
 * Excel
 * Pandas
 * NumPy
+* Data Visualization
+* Data Cleaning
+* Exploratory Data Analysis
+* Dashboard Development
+* Git & GitHub
 
-## Featured Projects
+## 🌱 Currently Learning
 
-### Global Cybersecurity Threat Analysis
-
-Excel dashboard project focused on cybersecurity trends, sector vulnerabilities, financial impact analysis, and KPI reporting.
-
-### Data Science Job Market Analysis
-
-SQL-based analytics project exploring salary trends, remote work, hiring demand, and skill insights from job market datasets.
-
-### E-commerce Customer Behavior Analysis
-
-Power BI dashboard project analyzing customer behavior, sales trends, and business performance using interactive reporting.
-
-## Currently Learning
-
+* Advanced Python
 * Advanced SQL
 * Power BI storytelling
+* Machine Learning fundamentals
 * AI-assisted analytics workflows
-* Data visualization & reporting
 
-## Connect With Me
+## 📫 Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/rohan-rathod-r07](http://www.linkedin.com/in/rohan-rathod-r07)
 * Email: [rohanr0750@gmail.com](mailto:rohanr0750@gmail.com)
