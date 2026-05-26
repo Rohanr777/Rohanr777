@@ -29,5 +29,8 @@
 
 ## 📫 Connect With Me
 
-* LinkedIn: [www.linkedin.com/in/rohan-rathod-r07](http://www.linkedin.com/in/rohan-rathod-r07)
+* LinkedIn: [rohan-rathod-r07](https://www.linkedin.com/in/rohan-rathod-r07)
 * Email: [rohanr0750@gmail.com](mailto:rohanr0750@gmail.com)
+* IT Vedant Portfolio: [View Portfolio](https://wingz.itvedant.com/portfolio/rohan-rathod-dec25-n314)
+* HackerRank: [rohanr0750](https://www.hackerrank.com/profile/rohanr0750)
+
