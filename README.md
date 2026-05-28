@@ -35,5 +35,4 @@
 ## 📫 Connect With Me
 
 * [LinkedIn](https://www.linkedin.com/in/rohan-rathod-r07)
-* [HackerRank](https://www.hackerrank.com/profile/rohanr0750)
 * Email: [rohanr0750@gmail.com](mailto:rohanr0750@gmail.com)
