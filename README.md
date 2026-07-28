@@ -22,7 +22,7 @@
     <a href="#-about-me">About Me</a> • 
     <a href="#-tech-ecosystem">Tech Ecosystem</a> • 
     <a href="#-experience">Experience</a> • 
-    <a href="#-education--certifications">Education & Credentials</a> • 
+    <a href="#-education--credentials">Education & Credentials</a> • 
     <a href="#-connect-with-me">Connect</a>
   </p>
 </div>
@@ -31,8 +31,8 @@
 
 <div align="center">
   <h2>👋 Hello, I'm Rohan Rathod</h2>
-  <p style="font-size: 1.1em; max-width: 800px; line-height: 1.6; color: #8B9BB4;">
-    Electronics & Communication Engineering student passionate about Data Science, AI, and Analytics. I bridge hardware system fundamentals with software data solutions to build scalable data pipelines, predictive models, and interactive business intelligence dashboards.
+  <p style="max-width: 750px; line-height: 1.6; color: #8B9BB4;">
+    Electronics & Communication Engineering student passionate about Data Science, Machine Learning, and Analytics. I bridge core system logic with software solutions to build scalable data pipelines, predictive models, and interactive business intelligence dashboards.
   </p>
 </div>
 
@@ -40,22 +40,8 @@
 
 ### 👤 About Me
 
-<table width="100%" border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎓 Academic Background</h4>
-      <p>
-        Pursuing <strong>B.Tech in Electronics & Communication Engineering</strong> at Tulsiramji Gaikwad-Patil College of Engineering and Technology, Nagpur (Current CGPA: <strong>8.27/10</strong>).
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>💡 Vision & Expertise</h4>
-      <p>
-        Specializing in <strong>Data Analytics, Machine Learning, and Generative AI</strong>. Passionate about applying exploratory data analysis, feature engineering, and predictive algorithms to solve complex business queries.
-      </p>
-    </td>
-  </tr>
-</table>
+* 🎓 **Academic Background:** Pursuing **B.Tech in Electronics & Communication Engineering** at Tulsiramji Gaikwad-Patil College of Engineering and Technology, Nagpur (Current CGPA: **8.27/10**)[cite: 1].
+* 💡 **Vision & Expertise:** Specializing in **Data Analytics, Machine Learning, and Generative AI**[cite: 1]. Experienced in performing EDA, feature engineering, statistical modeling, and developing automated BI reports[cite: 1].
 
 ---
 
@@ -63,13 +49,13 @@
 
 <div align="center">
 
-| Domain | Skills & Technologies |
+| Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | `Python (OOP)` • `SQL` |
-| **Data Analysis & ML** | `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-Learn` • `BeautifulSoup` |
-| **Business Intelligence** | `Power BI (DAX)` • `Tableau` • `MS Excel` |
-| **Core Capabilities** | Data Preprocessing • EDA • Feature Engineering • Regression • Classification • Statistical Analysis |
-| **Databases & Tools** | `MySQL` • `MySQL Workbench` • `Jupyter Notebook` • `VS Code` • `Git` • `GitHub` |
+| **Languages** | `Python (OOP)` • `SQL`[cite: 1] |
+| **Data Science & ML** | `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-Learn` • `BeautifulSoup`[cite: 1] |
+| **Business Intelligence** | `Power BI (DAX & Data Modeling)` • `Tableau` • `MS Excel`[cite: 1] |
+| **Core Capabilities** | Data Cleaning • Data Preprocessing • EDA • Feature Engineering • Feature Selection • Regression • Classification[cite: 1] |
+| **Platforms & Tools** | `MySQL` • `MySQL Workbench` • `Jupyter Notebook` • `VS Code` • `Git` • `GitHub`[cite: 1] |
 
 <br />
 
@@ -83,36 +69,36 @@
 
 ### 💼 Experience
 
-* **Google Cloud Generative AI Virtual Intern** | *EduSkills AICTE* `(Apr 2026 – Jun 2026)`
-  * Built hands-on projects focusing on **Prompt Engineering, LLMs, Embeddings, and Google Cloud Vertex AI**.
-  * Developed prototype AI solutions using transformer models to enhance search speed and query execution precision.
+* **Google Cloud Generative AI Virtual Intern** | *EduSkills AICTE* `(Apr 2026 – Jun 2026)`[cite: 1]
+  * Completed an 8-week virtual program building hands-on projects with **Prompt Engineering, LLMs, Embeddings, and Google Cloud Vertex AI**[cite: 1].
+  * Developed prototype AI tools using transformer models to improve search speeds and response accuracy[cite: 1].
 
-* **Data Science Intern** | *Future Interns*
-  * Executed end-to-end data analytics projects using **Excel and Power BI**, processing structured datasets of **10,000 to 50,000+ records**.
-  * Optimized reporting workflows by engineering automated interactive dashboards and data-cleaning processes.
+* **Data Science Intern** | *Future Interns*[cite: 1]
+  * Developed 3 data analytics projects using **Excel and Power BI**, analyzing datasets containing **10,000 to 50,000+ records**[cite: 1].
+  * Improved reporting efficiency by creating automated dashboards and setting up structured data-cleaning pipelines[cite: 1].
 
 ---
 
-### 🎓 Education & Certifications
+### 🎓 Education & Credentials
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>📜 Credentials</h4>
+      <h4>📜 Certifications</h4>
       <ul>
-        <li><strong>Data Science & Analytics with AI</strong> — IT Vedant</li>
-        <li><strong>GenAI Data Analytics Job Simulation</strong> — Forage</li>
-        <li><strong>Artificial Intelligence Fundamentals</strong> — IBM Skills Network</li>
-        <li><strong>Cloud Computing (Elite)</strong> — NPTEL (IIT Kharagpur)</li>
-        <li><strong>Internet of Things & Industry 4.0 (Elite)</strong> — NPTEL (IIT Kharagpur)</li>
+        <li><strong>Data Science & Analytics with AI</strong> — IT Vedant (Expected Aug 2026)[cite: 1]</li>
+        <li><strong>GenAI Data Analytics Job Simulation</strong> — Forage[cite: 1]</li>
+        <li><strong>Artificial Intelligence Fundamentals</strong> — IBM Skills Network[cite: 1]</li>
+        <li><strong>Cloud Computing (Elite)</strong> — NPTEL (IIT Kharagpur)[cite: 1]</li>
+        <li><strong>IoT & Industry 4.0 (Elite)</strong> — NPTEL (IIT Kharagpur)[cite: 1]</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🏆 Distinctions</h4>
+      <h4>🏆 Achievements</h4>
       <ul>
-        <li>🥇 <strong>First Prize (2x)</strong> — National-Level Technical Quiz Competitions</li>
-        <li>🏆 <strong>First Prize</strong> — National-Level Poster Presentation</li>
-        <li>💼 <strong>Secretary</strong> — Department Student Forum (2025–2026)</li>
+        <li>🥇 <strong>First Prize (2x)</strong> — National-Level Technical Quiz Competitions[cite: 1]</li>
+        <li>🏆 <strong>First Prize</strong> — National-Level Poster Presentation[cite: 1]</li>
+        <li>💼 <strong>Secretary</strong> — Department Student Forum (2025–2026)[cite: 1]</li>
       </ul>
     </td>
   </tr>
@@ -123,15 +109,18 @@
 ### 🤝 Connect With Me
 
 <div align="center">
-  <p>Interested in collaborating on Data Science, ML pipelines, or BI Dashboards? Reach out!</p>
+  <p>Feel free to reach out for collaborations, data science projects, or networking!</p>
 
+  <a href="https://rohan-portfolio-blond.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Personal_Portfolio-00F2FE?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/rohan-rathod-r07/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-7F00FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Rohanr777" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-21262d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
   <a href="mailto:rohanr0750@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rohanr0750%40gmail.com-00F2FE?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-7F00FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-21262d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
