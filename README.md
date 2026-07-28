@@ -8,8 +8,8 @@
       </linearGradient>
     </defs>
     <path d="M 0 0 L 1000 0 L 1000 120 Q 500 200 0 120 Z" fill="url(#headerGrad)"/>
-    <text x="50%" y="45%" text-anchor="middle" fill="#ffffff" font-family="'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="42" letter-spacing="2">ROHAN RATHOD</text>
-    <text x="50%" y="70%" text-anchor="middle" fill="rgba(255,255,255,0.7)" font-family="'Segoe UI', Roboto, sans-serif" font-weight="400" font-size="16" letter-spacing="4">DATA SCIENCE & AI PORTFOLIO</text>
+    <text x="50%" y="42%" text-anchor="middle" fill="#ffffff" font-family="'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="42" letter-spacing="2">ROHAN RATHOD</text>
+    <text x="50%" y="68%" text-anchor="middle" fill="#00F2FE" font-family="'Segoe UI', Roboto, sans-serif" font-weight="600" font-size="16" letter-spacing="4">PORTFOLIO ECOSYSTEM</text>
   </svg>
 
   <br />
@@ -109,18 +109,30 @@
 ### 🤝 Connect With Me
 
 <div align="center">
-  <p>Feel free to reach out for collaborations, data science projects, or networking!</p>
+  <p style="color: #8B9BB4; font-size: 1.05em; margin-bottom: 25px;">Let's collaborate on data pipelines, predictive models, or premium analytics projects.</p>
 
-  <a href="https://rohan-portfolio-blond.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Personal_Portfolio-00F2FE?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/rohan-rathod-r07/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-7F00FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Rohanr777" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-21262d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:rohanr0750@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate; border-spacing: 12px 0;">
+    <tr style="background: transparent; border: none;">
+      <td>
+        <a href="https://rohan-portfolio-blond.vercel.app/" target="_blank" style="text-decoration: none; display: inline-block; background: linear-gradient(135deg, #00F2FE, #4FACFE); color: #0d1117; font-weight: bold; padding: 12px 24px; border-radius: 30px; box-shadow: 0 4px 15px rgba(0, 242, 254, 0.3);">
+          🌐 Live Portfolio
+        </a>
+      </td>
+      <td>
+        <a href="https://www.linkedin.com/in/rohan-rathod-r07/" target="_blank" style="text-decoration: none; display: inline-block; background: linear-gradient(135deg, #7F00FF, #E100FF); color: #ffffff; font-weight: bold; padding: 12px 24px; border-radius: 30px; box-shadow: 0 4px 15px rgba(127, 0, 255, 0.3);">
+          💼 LinkedIn
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Rohanr777" target="_blank" style="text-decoration: none; display: inline-block; background: #21262d; color: #C9D1D9; border: 1px solid #30363d; font-weight: bold; padding: 12px 24px; border-radius: 30px;">
+          🐙 GitHub
+        </a>
+      </td>
+      <td>
+        <a href="mailto:rohanr0750@gmail.com" style="text-decoration: none; display: inline-block; background: rgba(0, 242, 254, 0.08); color: #00F2FE; border: 1px solid rgba(0, 242, 254, 0.3); font-weight: bold; padding: 12px 24px; border-radius: 30px;">
+          📬 Direct Email
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
